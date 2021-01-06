@@ -22,3 +22,4 @@ category:crafting
 research:oil-extractor
 idleSound:respawning
 idleSoundVolume:0.5
+outputItem:copper/2
