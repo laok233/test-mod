@@ -1,1 +1,26 @@
 
+
+type:GenericCrafter
+name:"copper duplicator"
+description: "I'm too lazy to add a description"
+size:2
+hasPower:true
+hasItems:true
+itemCapacity:10
+craftTime:60
+updateEffect: smeltsmoke
+consumes: {
+	power:1.0
+	items: {
+		items: [
+			copper/1
+			]
+		}
+	}
+requirements: [
+	copper/20
+]
+category:crafting
+research:oil-extractor
+idleSound:respawning
+idleSoundVolume:0.5
