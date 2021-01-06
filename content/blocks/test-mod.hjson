@@ -1,5 +1,5 @@
 type:GenericCrafter
-name:"copper duplicator"
+name:"copper to lead"
 description: "I'm too lazy to add a description"
 size:2
 hasPower:true
@@ -22,4 +22,4 @@ category:crafting
 research:oil-extractor
 idleSound:respawning
 idleSoundVolume:0.5
-outputItem:copper/2
+outputItem:lead/1
